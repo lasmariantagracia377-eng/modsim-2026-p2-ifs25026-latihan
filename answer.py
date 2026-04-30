@@ -68,3 +68,5 @@ elif target_question == "q13":
     # Maka hitung jumlah responden dan persentase masing-masing kategori
     # Contoh Jawaban: positif=1000:80.1|netral=200:10.1|negatif=200:100.2
     print("positif=1396:72.7|netral=471:24.5|negatif=54:2.8")
+
+    
